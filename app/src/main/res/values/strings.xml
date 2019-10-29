@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple Dice Roller</string>
+    <string name="roll">Roll</string>
+    <string name="value_text">Value:</string>
+</resources>
